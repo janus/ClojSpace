@@ -1,0 +1,8 @@
+body { background-color: white; font-size: 12px; }
+a { color: red; font-size: 12px; text-decoration: none; }
+a:hover { color: blue; text-decoration: underline; }
+h1 { font-size: 20px; border-bottom: solid 2px orange; }
+#header { height: 30px; }
+#navigation { height: 20px; }
+#conten { height: 50px; border-top: dotted 1px black;}
+#footer { height: 20px; border-top: dotted 1px black; }
