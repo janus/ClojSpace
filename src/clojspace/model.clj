@@ -54,7 +54,7 @@
        
    ;(pr-str (find-by-screen-name-password "Janus" "google"))
      ;;(find-by-screen-name "EMEKA")
-  ;;(add-user "EMEKA" "emekamicro@gmail.com" "emekas")
+  ;;(add-user "EMEKA" "emekamicro@gmail.com" "boopj")
     ; (create-users)
     ;; (create-posts)
     ;; (create-comments))
